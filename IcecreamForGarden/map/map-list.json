@@ -1,0 +1,3051 @@
+[
+  {
+    "name": "Дикий луг. Сбор",
+    "points": [
+      {
+        "screenX": 603,
+        "screenY": 294,
+        "timeStamp": 293195,
+        "timeBefore": 0
+      },
+      {
+        "screenX": 600,
+        "screenY": 239,
+        "timeStamp": 294025,
+        "timeBefore": 830
+      },
+      {
+        "screenX": 515,
+        "screenY": 329,
+        "timeStamp": 294775,
+        "timeBefore": 750
+      },
+      {
+        "screenX": 495,
+        "screenY": 282,
+        "timeStamp": 296461,
+        "timeBefore": 1686
+      },
+      {
+        "screenX": 595,
+        "screenY": 386,
+        "timeStamp": 297118,
+        "timeBefore": 657
+      },
+      {
+        "screenX": 595,
+        "screenY": 386,
+        "timeStamp": 297586,
+        "timeBefore": 468
+      },
+      {
+        "screenX": 523,
+        "screenY": 438,
+        "timeStamp": 298134,
+        "timeBefore": 548
+      },
+      {
+        "screenX": 523,
+        "screenY": 438,
+        "timeStamp": 298555,
+        "timeBefore": 421
+      },
+      {
+        "screenX": 724,
+        "screenY": 347,
+        "timeStamp": 299337,
+        "timeBefore": 782
+      },
+      {
+        "screenX": 727,
+        "screenY": 342,
+        "timeStamp": 299775,
+        "timeBefore": 438
+      },
+      {
+        "screenX": 874,
+        "screenY": 289,
+        "timeStamp": 300305,
+        "timeBefore": 530
+      },
+      {
+        "screenX": 874,
+        "screenY": 289,
+        "timeStamp": 300742,
+        "timeBefore": 437
+      },
+      {
+        "screenX": 958,
+        "screenY": 245,
+        "timeStamp": 301258,
+        "timeBefore": 516
+      },
+      {
+        "screenX": 958,
+        "screenY": 245,
+        "timeStamp": 301664,
+        "timeBefore": 406
+      },
+      {
+        "screenX": 1059,
+        "screenY": 267,
+        "timeStamp": 302478,
+        "timeBefore": 814
+      },
+      {
+        "screenX": 1059,
+        "screenY": 267,
+        "timeStamp": 302837,
+        "timeBefore": 359
+      },
+      {
+        "screenX": 969,
+        "screenY": 326,
+        "timeStamp": 303383,
+        "timeBefore": 546
+      },
+      {
+        "screenX": 969,
+        "screenY": 326,
+        "timeStamp": 303743,
+        "timeBefore": 360
+      },
+      {
+        "screenX": 830,
+        "screenY": 381,
+        "timeStamp": 304306,
+        "timeBefore": 563
+      },
+      {
+        "screenX": 830,
+        "screenY": 381,
+        "timeStamp": 304774,
+        "timeBefore": 468
+      },
+      {
+        "screenX": 729,
+        "screenY": 447,
+        "timeStamp": 305790,
+        "timeBefore": 1016
+      },
+      {
+        "screenX": 729,
+        "screenY": 447,
+        "timeStamp": 306071,
+        "timeBefore": 281
+      },
+      {
+        "screenX": 613,
+        "screenY": 502,
+        "timeStamp": 306775,
+        "timeBefore": 704
+      },
+      {
+        "screenX": 613,
+        "screenY": 502,
+        "timeStamp": 307196,
+        "timeBefore": 421
+      },
+      {
+        "screenX": 717,
+        "screenY": 441,
+        "timeStamp": 307743,
+        "timeBefore": 547
+      },
+      {
+        "screenX": 717,
+        "screenY": 441,
+        "timeStamp": 308150,
+        "timeBefore": 407
+      },
+      {
+        "screenX": 508,
+        "screenY": 555,
+        "timeStamp": 309149,
+        "timeBefore": 999
+      },
+      {
+        "screenX": 508,
+        "screenY": 555,
+        "timeStamp": 309665,
+        "timeBefore": 516
+      },
+      {
+        "screenX": 611,
+        "screenY": 611,
+        "timeStamp": 310415,
+        "timeBefore": 750
+      },
+      {
+        "screenX": 611,
+        "screenY": 611,
+        "timeStamp": 310931,
+        "timeBefore": 516
+      },
+      {
+        "screenX": 729,
+        "screenY": 554,
+        "timeStamp": 311462,
+        "timeBefore": 531
+      },
+      {
+        "screenX": 729,
+        "screenY": 554,
+        "timeStamp": 311758,
+        "timeBefore": 296
+      },
+      {
+        "screenX": 825,
+        "screenY": 496,
+        "timeStamp": 312430,
+        "timeBefore": 672
+      },
+      {
+        "screenX": 825,
+        "screenY": 496,
+        "timeStamp": 312899,
+        "timeBefore": 469
+      },
+      {
+        "screenX": 931,
+        "screenY": 453,
+        "timeStamp": 313431,
+        "timeBefore": 532
+      },
+      {
+        "screenX": 938,
+        "screenY": 449,
+        "timeStamp": 313915,
+        "timeBefore": 484
+      },
+      {
+        "screenX": 1053,
+        "screenY": 386,
+        "timeStamp": 314695,
+        "timeBefore": 780
+      },
+      {
+        "screenX": 1055,
+        "screenY": 385,
+        "timeStamp": 315025,
+        "timeBefore": 330
+      },
+      {
+        "screenX": 1168,
+        "screenY": 336,
+        "timeStamp": 315931,
+        "timeBefore": 906
+      },
+      {
+        "screenX": 1168,
+        "screenY": 336,
+        "timeStamp": 316180,
+        "timeBefore": 249
+      },
+      {
+        "screenX": 1162,
+        "screenY": 451,
+        "timeStamp": 317009,
+        "timeBefore": 829
+      },
+      {
+        "screenX": 1162,
+        "screenY": 451,
+        "timeStamp": 317275,
+        "timeBefore": 266
+      },
+      {
+        "screenX": 1065,
+        "screenY": 494,
+        "timeStamp": 318086,
+        "timeBefore": 811
+      },
+      {
+        "screenX": 1065,
+        "screenY": 494,
+        "timeStamp": 318367,
+        "timeBefore": 281
+      },
+      {
+        "screenX": 1050,
+        "screenY": 500,
+        "timeStamp": 319165,
+        "timeBefore": 798
+      },
+      {
+        "screenX": 963,
+        "screenY": 558,
+        "timeStamp": 319775,
+        "timeBefore": 610
+      },
+      {
+        "screenX": 963,
+        "screenY": 558,
+        "timeStamp": 320024,
+        "timeBefore": 249
+      },
+      {
+        "screenX": 827,
+        "screenY": 611,
+        "timeStamp": 320634,
+        "timeBefore": 610
+      },
+      {
+        "screenX": 827,
+        "screenY": 611,
+        "timeStamp": 321290,
+        "timeBefore": 656
+      },
+      {
+        "screenX": 735,
+        "screenY": 674,
+        "timeStamp": 322025,
+        "timeBefore": 735
+      },
+      {
+        "screenX": 735,
+        "screenY": 674,
+        "timeStamp": 322228,
+        "timeBefore": 203
+      },
+      {
+        "screenX": 626,
+        "screenY": 714,
+        "timeStamp": 322853,
+        "timeBefore": 625
+      },
+      {
+        "screenX": 626,
+        "screenY": 714,
+        "timeStamp": 323275,
+        "timeBefore": 422
+      },
+      {
+        "screenX": 493,
+        "screenY": 779,
+        "timeStamp": 323806,
+        "timeBefore": 531
+      },
+      {
+        "screenX": 492,
+        "screenY": 779,
+        "timeStamp": 324134,
+        "timeBefore": 328
+      },
+      {
+        "screenX": 707,
+        "screenY": 787,
+        "timeStamp": 324837,
+        "timeBefore": 703
+      },
+      {
+        "screenX": 707,
+        "screenY": 787,
+        "timeStamp": 325070,
+        "timeBefore": 233
+      },
+      {
+        "screenX": 724,
+        "screenY": 777,
+        "timeStamp": 326009,
+        "timeBefore": 939
+      },
+      {
+        "screenX": 718,
+        "screenY": 766,
+        "timeStamp": 326743,
+        "timeBefore": 734
+      },
+      {
+        "screenX": 737,
+        "screenY": 774,
+        "timeStamp": 327368,
+        "timeBefore": 625
+      },
+      {
+        "screenX": 819,
+        "screenY": 717,
+        "timeStamp": 327899,
+        "timeBefore": 531
+      },
+      {
+        "screenX": 819,
+        "screenY": 717,
+        "timeStamp": 328274,
+        "timeBefore": 375
+      },
+      {
+        "screenX": 951,
+        "screenY": 663,
+        "timeStamp": 328805,
+        "timeBefore": 531
+      },
+      {
+        "screenX": 951,
+        "screenY": 663,
+        "timeStamp": 329008,
+        "timeBefore": 203
+      },
+      {
+        "screenX": 1044,
+        "screenY": 614,
+        "timeStamp": 329540,
+        "timeBefore": 532
+      },
+      {
+        "screenX": 1044,
+        "screenY": 614,
+        "timeStamp": 329775,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 1169,
+        "screenY": 556,
+        "timeStamp": 330305,
+        "timeBefore": 530
+      },
+      {
+        "screenX": 1169,
+        "screenY": 556,
+        "timeStamp": 330540,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 1160,
+        "screenY": 668,
+        "timeStamp": 331149,
+        "timeBefore": 609
+      },
+      {
+        "screenX": 1160,
+        "screenY": 668,
+        "timeStamp": 331540,
+        "timeBefore": 391
+      },
+      {
+        "screenX": 1049,
+        "screenY": 724,
+        "timeStamp": 332290,
+        "timeBefore": 750
+      },
+      {
+        "screenX": 1049,
+        "screenY": 724,
+        "timeStamp": 332524,
+        "timeBefore": 234
+      },
+      {
+        "screenX": 949,
+        "screenY": 773,
+        "timeStamp": 333306,
+        "timeBefore": 782
+      },
+      {
+        "screenX": 949,
+        "screenY": 773,
+        "timeStamp": 333571,
+        "timeBefore": 265
+      },
+      {
+        "screenX": 1164,
+        "screenY": 776,
+        "timeStamp": 334353,
+        "timeBefore": 782
+      },
+      {
+        "screenX": 1165,
+        "screenY": 775,
+        "timeStamp": 334758,
+        "timeBefore": 405
+      }
+    ]
+  },
+  {
+    "name": "Дикий луг. Деревья",
+    "points": [
+      {
+        "screenX": 386,
+        "screenY": 236,
+        "timeStamp": 360587,
+        "timeBefore": 0
+      },
+      {
+        "screenX": 386,
+        "screenY": 236,
+        "timeStamp": 361025,
+        "timeBefore": 438
+      },
+      {
+        "screenX": 341,
+        "screenY": 262,
+        "timeStamp": 361649,
+        "timeBefore": 624
+      },
+      {
+        "screenX": 341,
+        "screenY": 262,
+        "timeStamp": 362056,
+        "timeBefore": 407
+      },
+      {
+        "screenX": 294,
+        "screenY": 297,
+        "timeStamp": 362633,
+        "timeBefore": 577
+      },
+      {
+        "screenX": 294,
+        "screenY": 297,
+        "timeStamp": 362853,
+        "timeBefore": 220
+      },
+      {
+        "screenX": 450,
+        "screenY": 281,
+        "timeStamp": 363743,
+        "timeBefore": 890
+      },
+      {
+        "screenX": 450,
+        "screenY": 281,
+        "timeStamp": 363992,
+        "timeBefore": 249
+      },
+      {
+        "screenX": 404,
+        "screenY": 321,
+        "timeStamp": 364524,
+        "timeBefore": 532
+      },
+      {
+        "screenX": 404,
+        "screenY": 321,
+        "timeStamp": 364759,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 346,
+        "screenY": 349,
+        "timeStamp": 365306,
+        "timeBefore": 547
+      },
+      {
+        "screenX": 346,
+        "screenY": 349,
+        "timeStamp": 365555,
+        "timeBefore": 249
+      },
+      {
+        "screenX": 287,
+        "screenY": 379,
+        "timeStamp": 366289,
+        "timeBefore": 734
+      },
+      {
+        "screenX": 287,
+        "screenY": 379,
+        "timeStamp": 366759,
+        "timeBefore": 470
+      },
+      {
+        "screenX": 297,
+        "screenY": 425,
+        "timeStamp": 367336,
+        "timeBefore": 577
+      },
+      {
+        "screenX": 297,
+        "screenY": 425,
+        "timeStamp": 367618,
+        "timeBefore": 282
+      },
+      {
+        "screenX": 325,
+        "screenY": 450,
+        "timeStamp": 368149,
+        "timeBefore": 531
+      },
+      {
+        "screenX": 325,
+        "screenY": 450,
+        "timeStamp": 368383,
+        "timeBefore": 234
+      },
+      {
+        "screenX": 298,
+        "screenY": 492,
+        "timeStamp": 369025,
+        "timeBefore": 642
+      },
+      {
+        "screenX": 298,
+        "screenY": 492,
+        "timeStamp": 369275,
+        "timeBefore": 250
+      },
+      {
+        "screenX": 285,
+        "screenY": 538,
+        "timeStamp": 369821,
+        "timeBefore": 546
+      },
+      {
+        "screenX": 285,
+        "screenY": 538,
+        "timeStamp": 370071,
+        "timeBefore": 250
+      },
+      {
+        "screenX": 327,
+        "screenY": 570,
+        "timeStamp": 370586,
+        "timeBefore": 515
+      },
+      {
+        "screenX": 327,
+        "screenY": 570,
+        "timeStamp": 370821,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 285,
+        "screenY": 594,
+        "timeStamp": 372337,
+        "timeBefore": 1516
+      },
+      {
+        "screenX": 285,
+        "screenY": 594,
+        "timeStamp": 372665,
+        "timeBefore": 328
+      },
+      {
+        "screenX": 288,
+        "screenY": 646,
+        "timeStamp": 373258,
+        "timeBefore": 593
+      },
+      {
+        "screenX": 288,
+        "screenY": 646,
+        "timeStamp": 373540,
+        "timeBefore": 282
+      },
+      {
+        "screenX": 324,
+        "screenY": 663,
+        "timeStamp": 374134,
+        "timeBefore": 594
+      },
+      {
+        "screenX": 324,
+        "screenY": 663,
+        "timeStamp": 374478,
+        "timeBefore": 344
+      },
+      {
+        "screenX": 279,
+        "screenY": 700,
+        "timeStamp": 375289,
+        "timeBefore": 811
+      },
+      {
+        "screenX": 279,
+        "screenY": 700,
+        "timeStamp": 375587,
+        "timeBefore": 298
+      },
+      {
+        "screenX": 287,
+        "screenY": 768,
+        "timeStamp": 376228,
+        "timeBefore": 641
+      },
+      {
+        "screenX": 287,
+        "screenY": 768,
+        "timeStamp": 376478,
+        "timeBefore": 250
+      },
+      {
+        "screenX": 320,
+        "screenY": 786,
+        "timeStamp": 377039,
+        "timeBefore": 561
+      },
+      {
+        "screenX": 320,
+        "screenY": 779,
+        "timeStamp": 377774,
+        "timeBefore": 735
+      },
+      {
+        "screenX": 319,
+        "screenY": 741,
+        "timeStamp": 378195,
+        "timeBefore": 421
+      },
+      {
+        "screenX": 279,
+        "screenY": 802,
+        "timeStamp": 379353,
+        "timeBefore": 1158
+      },
+      {
+        "screenX": 280,
+        "screenY": 751,
+        "timeStamp": 379961,
+        "timeBefore": 608
+      },
+      {
+        "screenX": 334,
+        "screenY": 772,
+        "timeStamp": 380509,
+        "timeBefore": 548
+      },
+      {
+        "screenX": 333,
+        "screenY": 775,
+        "timeStamp": 381352,
+        "timeBefore": 843
+      },
+      {
+        "screenX": 395,
+        "screenY": 803,
+        "timeStamp": 381868,
+        "timeBefore": 516
+      },
+      {
+        "screenX": 397,
+        "screenY": 749,
+        "timeStamp": 382524,
+        "timeBefore": 656
+      },
+      {
+        "screenX": 612,
+        "screenY": 812,
+        "timeStamp": 383117,
+        "timeBefore": 593
+      },
+      {
+        "screenX": 623,
+        "screenY": 748,
+        "timeStamp": 383696,
+        "timeBefore": 579
+      },
+      {
+        "screenX": 838,
+        "screenY": 807,
+        "timeStamp": 384664,
+        "timeBefore": 968
+      },
+      {
+        "screenX": 840,
+        "screenY": 737,
+        "timeStamp": 385400,
+        "timeBefore": 736
+      },
+      {
+        "screenX": 618,
+        "screenY": 804,
+        "timeStamp": 386195,
+        "timeBefore": 795
+      },
+      {
+        "screenX": 621,
+        "screenY": 750,
+        "timeStamp": 386868,
+        "timeBefore": 673
+      },
+      {
+        "screenX": 1056,
+        "screenY": 806,
+        "timeStamp": 388181,
+        "timeBefore": 1313
+      },
+      {
+        "screenX": 1049,
+        "screenY": 746,
+        "timeStamp": 388806,
+        "timeBefore": 625
+      },
+      {
+        "screenX": 1292,
+        "screenY": 805,
+        "timeStamp": 389509,
+        "timeBefore": 703
+      },
+      {
+        "screenX": 1289,
+        "screenY": 749,
+        "timeStamp": 390025,
+        "timeBefore": 516
+      },
+      {
+        "screenX": 1329,
+        "screenY": 780,
+        "timeStamp": 390603,
+        "timeBefore": 578
+      },
+      {
+        "screenX": 1250,
+        "screenY": 782,
+        "timeStamp": 391431,
+        "timeBefore": 828
+      },
+      {
+        "screenX": 1331,
+        "screenY": 672,
+        "timeStamp": 392228,
+        "timeBefore": 797
+      },
+      {
+        "screenX": 1272,
+        "screenY": 674,
+        "timeStamp": 392899,
+        "timeBefore": 671
+      },
+      {
+        "screenX": 1334,
+        "screenY": 560,
+        "timeStamp": 393664,
+        "timeBefore": 765
+      },
+      {
+        "screenX": 1263,
+        "screenY": 557,
+        "timeStamp": 394180,
+        "timeBefore": 516
+      },
+      {
+        "screenX": 1338,
+        "screenY": 442,
+        "timeStamp": 394884,
+        "timeBefore": 704
+      },
+      {
+        "screenX": 1273,
+        "screenY": 455,
+        "timeStamp": 395540,
+        "timeBefore": 656
+      },
+      {
+        "screenX": 1336,
+        "screenY": 325,
+        "timeStamp": 396258,
+        "timeBefore": 718
+      },
+      {
+        "screenX": 1273,
+        "screenY": 331,
+        "timeStamp": 396852,
+        "timeBefore": 594
+      },
+      {
+        "screenX": 1328,
+        "screenY": 270,
+        "timeStamp": 397633,
+        "timeBefore": 781
+      },
+      {
+        "screenX": 1255,
+        "screenY": 278,
+        "timeStamp": 398242,
+        "timeBefore": 609
+      },
+      {
+        "screenX": 1268,
+        "screenY": 304,
+        "timeStamp": 398946,
+        "timeBefore": 704
+      },
+      {
+        "screenX": 1268,
+        "screenY": 304,
+        "timeStamp": 399368,
+        "timeBefore": 422
+      },
+      {
+        "screenX": 1214,
+        "screenY": 278,
+        "timeStamp": 399884,
+        "timeBefore": 516
+      },
+      {
+        "screenX": 1214,
+        "screenY": 278,
+        "timeStamp": 400164,
+        "timeBefore": 280
+      },
+      {
+        "screenX": 1167,
+        "screenY": 252,
+        "timeStamp": 400820,
+        "timeBefore": 656
+      },
+      {
+        "screenX": 1167,
+        "screenY": 252,
+        "timeStamp": 401117,
+        "timeBefore": 297
+      }
+    ]
+  },
+  {
+    "name": "Дикий луг. Животные. Сбор",
+    "points": [
+      {
+        "screenX": 393,
+        "screenY": 379,
+        "timeStamp": 437431,
+        "timeBefore": 0
+      },
+      {
+        "screenX": 393,
+        "screenY": 379,
+        "timeStamp": 437993,
+        "timeBefore": 562
+      },
+      {
+        "screenX": 380,
+        "screenY": 498,
+        "timeStamp": 438900,
+        "timeBefore": 907
+      },
+      {
+        "screenX": 380,
+        "screenY": 498,
+        "timeStamp": 439243,
+        "timeBefore": 343
+      },
+      {
+        "screenX": 390,
+        "screenY": 609,
+        "timeStamp": 440008,
+        "timeBefore": 765
+      },
+      {
+        "screenX": 390,
+        "screenY": 609,
+        "timeStamp": 440306,
+        "timeBefore": 298
+      },
+      {
+        "screenX": 493,
+        "screenY": 667,
+        "timeStamp": 441040,
+        "timeBefore": 734
+      },
+      {
+        "screenX": 493,
+        "screenY": 669,
+        "timeStamp": 441462,
+        "timeBefore": 422
+      },
+      {
+        "screenX": 381,
+        "screenY": 735,
+        "timeStamp": 442165,
+        "timeBefore": 703
+      },
+      {
+        "screenX": 381,
+        "screenY": 735,
+        "timeStamp": 442446,
+        "timeBefore": 281
+      },
+      {
+        "screenX": 1266,
+        "screenY": 383,
+        "timeStamp": 443743,
+        "timeBefore": 1297
+      },
+      {
+        "screenX": 1266,
+        "screenY": 383,
+        "timeStamp": 444008,
+        "timeBefore": 265
+      },
+      {
+        "screenX": 1277,
+        "screenY": 495,
+        "timeStamp": 445806,
+        "timeBefore": 1798
+      },
+      {
+        "screenX": 1277,
+        "screenY": 495,
+        "timeStamp": 446025,
+        "timeBefore": 219
+      },
+      {
+        "screenX": 1283,
+        "screenY": 617,
+        "timeStamp": 446789,
+        "timeBefore": 764
+      },
+      {
+        "screenX": 1283,
+        "screenY": 617,
+        "timeStamp": 447024,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 1278,
+        "screenY": 729,
+        "timeStamp": 447884,
+        "timeBefore": 860
+      },
+      {
+        "screenX": 1278,
+        "screenY": 731,
+        "timeStamp": 448118,
+        "timeBefore": 234
+      }
+    ]
+  },
+  {
+    "name": "Дикий луг. Животные. Чистить хлева",
+    "points": [
+      {
+        "screenX": 393,
+        "screenY": 388,
+        "timeStamp": 479789,
+        "timeBefore": 0
+      },
+      {
+        "screenX": 392,
+        "screenY": 325,
+        "timeStamp": 480681,
+        "timeBefore": 892
+      },
+      {
+        "screenX": 384,
+        "screenY": 492,
+        "timeStamp": 481290,
+        "timeBefore": 609
+      },
+      {
+        "screenX": 384,
+        "screenY": 492,
+        "timeStamp": 481728,
+        "timeBefore": 438
+      },
+      {
+        "screenX": 383,
+        "screenY": 605,
+        "timeStamp": 482337,
+        "timeBefore": 609
+      },
+      {
+        "screenX": 383,
+        "screenY": 605,
+        "timeStamp": 482758,
+        "timeBefore": 421
+      },
+      {
+        "screenX": 489,
+        "screenY": 666,
+        "timeStamp": 483431,
+        "timeBefore": 673
+      },
+      {
+        "screenX": 489,
+        "screenY": 666,
+        "timeStamp": 483852,
+        "timeBefore": 421
+      },
+      {
+        "screenX": 399,
+        "screenY": 720,
+        "timeStamp": 484493,
+        "timeBefore": 641
+      },
+      {
+        "screenX": 399,
+        "screenY": 721,
+        "timeStamp": 484945,
+        "timeBefore": 452
+      },
+      {
+        "screenX": 1279,
+        "screenY": 390,
+        "timeStamp": 487164,
+        "timeBefore": 2219
+      },
+      {
+        "screenX": 1279,
+        "screenY": 390,
+        "timeStamp": 487478,
+        "timeBefore": 314
+      },
+      {
+        "screenX": 1285,
+        "screenY": 511,
+        "timeStamp": 488040,
+        "timeBefore": 562
+      },
+      {
+        "screenX": 1285,
+        "screenY": 511,
+        "timeStamp": 488274,
+        "timeBefore": 234
+      },
+      {
+        "screenX": 1268,
+        "screenY": 625,
+        "timeStamp": 488837,
+        "timeBefore": 563
+      },
+      {
+        "screenX": 1268,
+        "screenY": 625,
+        "timeStamp": 489071,
+        "timeBefore": 234
+      },
+      {
+        "screenX": 1273,
+        "screenY": 717,
+        "timeStamp": 489728,
+        "timeBefore": 657
+      },
+      {
+        "screenX": 1273,
+        "screenY": 717,
+        "timeStamp": 490039,
+        "timeBefore": 311
+      }
+    ]
+  },
+  {
+    "name": "Дикий луг. Животные. Дать корм",
+    "points": [
+      {
+        "screenX": 404,
+        "screenY": 386,
+        "timeStamp": 513492,
+        "timeBefore": 0
+      },
+      {
+        "screenX": 398,
+        "screenY": 328,
+        "timeStamp": 514383,
+        "timeBefore": 891
+      },
+      {
+        "screenX": 383,
+        "screenY": 492,
+        "timeStamp": 515008,
+        "timeBefore": 625
+      },
+      {
+        "screenX": 383,
+        "screenY": 492,
+        "timeStamp": 515400,
+        "timeBefore": 392
+      },
+      {
+        "screenX": 376,
+        "screenY": 612,
+        "timeStamp": 516180,
+        "timeBefore": 780
+      },
+      {
+        "screenX": 376,
+        "screenY": 612,
+        "timeStamp": 516556,
+        "timeBefore": 376
+      },
+      {
+        "screenX": 501,
+        "screenY": 671,
+        "timeStamp": 517555,
+        "timeBefore": 999
+      },
+      {
+        "screenX": 501,
+        "screenY": 671,
+        "timeStamp": 517900,
+        "timeBefore": 345
+      },
+      {
+        "screenX": 382,
+        "screenY": 718,
+        "timeStamp": 518649,
+        "timeBefore": 749
+      },
+      {
+        "screenX": 382,
+        "screenY": 718,
+        "timeStamp": 518946,
+        "timeBefore": 297
+      },
+      {
+        "screenX": 1259,
+        "screenY": 373,
+        "timeStamp": 519946,
+        "timeBefore": 1000
+      },
+      {
+        "screenX": 1259,
+        "screenY": 373,
+        "timeStamp": 520337,
+        "timeBefore": 391
+      },
+      {
+        "screenX": 1286,
+        "screenY": 497,
+        "timeStamp": 520884,
+        "timeBefore": 547
+      },
+      {
+        "screenX": 1286,
+        "screenY": 497,
+        "timeStamp": 521275,
+        "timeBefore": 391
+      },
+      {
+        "screenX": 1275,
+        "screenY": 607,
+        "timeStamp": 521806,
+        "timeBefore": 531
+      },
+      {
+        "screenX": 1275,
+        "screenY": 607,
+        "timeStamp": 522259,
+        "timeBefore": 453
+      },
+      {
+        "screenX": 1274,
+        "screenY": 721,
+        "timeStamp": 522821,
+        "timeBefore": 562
+      },
+      {
+        "screenX": 1274,
+        "screenY": 721,
+        "timeStamp": 523306,
+        "timeBefore": 485
+      }
+    ]
+  },
+  {
+    "name": "Дикий луг. Животные. Дать воду",
+    "points": [
+      {
+        "screenX": 402,
+        "screenY": 383,
+        "timeStamp": 541540,
+        "timeBefore": 0
+      },
+      {
+        "screenX": 399,
+        "screenY": 387,
+        "timeStamp": 545633,
+        "timeBefore": 4093
+      },
+      {
+        "screenX": 401,
+        "screenY": 502,
+        "timeStamp": 546665,
+        "timeBefore": 1032
+      },
+      {
+        "screenX": 373,
+        "screenY": 621,
+        "timeStamp": 547399,
+        "timeBefore": 734
+      },
+      {
+        "screenX": 486,
+        "screenY": 666,
+        "timeStamp": 547931,
+        "timeBefore": 532
+      },
+      {
+        "screenX": 383,
+        "screenY": 713,
+        "timeStamp": 548525,
+        "timeBefore": 594
+      },
+      {
+        "screenX": 1259,
+        "screenY": 383,
+        "timeStamp": 549508,
+        "timeBefore": 983
+      },
+      {
+        "screenX": 1282,
+        "screenY": 497,
+        "timeStamp": 549961,
+        "timeBefore": 453
+      },
+      {
+        "screenX": 1273,
+        "screenY": 615,
+        "timeStamp": 550525,
+        "timeBefore": 564
+      },
+      {
+        "screenX": 1270,
+        "screenY": 730,
+        "timeStamp": 551087,
+        "timeBefore": 562
+      },
+      {
+        "screenX": 825,
+        "screenY": 169,
+        "timeStamp": 553275,
+        "timeBefore": 2188
+      }
+    ]
+  },
+  {
+    "name": "Багама. Тропический лес. Сбор",
+    "points": [
+      {
+        "screenX": 730,
+        "screenY": 329,
+        "timeStamp": 1667993,
+        "timeBefore": 0
+      },
+      {
+        "screenX": 730,
+        "screenY": 329,
+        "timeStamp": 1668399,
+        "timeBefore": 406
+      },
+      {
+        "screenX": 621,
+        "screenY": 384,
+        "timeStamp": 1669103,
+        "timeBefore": 704
+      },
+      {
+        "screenX": 621,
+        "screenY": 384,
+        "timeStamp": 1669712,
+        "timeBefore": 609
+      },
+      {
+        "screenX": 521,
+        "screenY": 455,
+        "timeStamp": 1670462,
+        "timeBefore": 750
+      },
+      {
+        "screenX": 521,
+        "screenY": 455,
+        "timeStamp": 1671055,
+        "timeBefore": 593
+      },
+      {
+        "screenX": 523,
+        "screenY": 556,
+        "timeStamp": 1671978,
+        "timeBefore": 923
+      },
+      {
+        "screenX": 523,
+        "screenY": 556,
+        "timeStamp": 1672508,
+        "timeBefore": 530
+      },
+      {
+        "screenX": 613,
+        "screenY": 494,
+        "timeStamp": 1673087,
+        "timeBefore": 579
+      },
+      {
+        "screenX": 616,
+        "screenY": 494,
+        "timeStamp": 1673540,
+        "timeBefore": 453
+      },
+      {
+        "screenX": 751,
+        "screenY": 432,
+        "timeStamp": 1674165,
+        "timeBefore": 625
+      },
+      {
+        "screenX": 751,
+        "screenY": 432,
+        "timeStamp": 1674556,
+        "timeBefore": 391
+      },
+      {
+        "screenX": 865,
+        "screenY": 381,
+        "timeStamp": 1675071,
+        "timeBefore": 515
+      },
+      {
+        "screenX": 865,
+        "screenY": 381,
+        "timeStamp": 1675321,
+        "timeBefore": 250
+      },
+      {
+        "screenX": 953,
+        "screenY": 340,
+        "timeStamp": 1675900,
+        "timeBefore": 579
+      },
+      {
+        "screenX": 953,
+        "screenY": 340,
+        "timeStamp": 1676462,
+        "timeBefore": 562
+      },
+      {
+        "screenX": 1083,
+        "screenY": 412,
+        "timeStamp": 1677086,
+        "timeBefore": 624
+      },
+      {
+        "screenX": 1083,
+        "screenY": 412,
+        "timeStamp": 1677352,
+        "timeBefore": 266
+      },
+      {
+        "screenX": 970,
+        "screenY": 434,
+        "timeStamp": 1677900,
+        "timeBefore": 548
+      },
+      {
+        "screenX": 970,
+        "screenY": 434,
+        "timeStamp": 1678164,
+        "timeBefore": 264
+      },
+      {
+        "screenX": 831,
+        "screenY": 511,
+        "timeStamp": 1678836,
+        "timeBefore": 672
+      },
+      {
+        "screenX": 831,
+        "screenY": 511,
+        "timeStamp": 1679103,
+        "timeBefore": 267
+      },
+      {
+        "screenX": 738,
+        "screenY": 565,
+        "timeStamp": 1679727,
+        "timeBefore": 624
+      },
+      {
+        "screenX": 738,
+        "screenY": 565,
+        "timeStamp": 1679962,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 617,
+        "screenY": 622,
+        "timeStamp": 1680509,
+        "timeBefore": 547
+      },
+      {
+        "screenX": 617,
+        "screenY": 622,
+        "timeStamp": 1680759,
+        "timeBefore": 250
+      },
+      {
+        "screenX": 508,
+        "screenY": 677,
+        "timeStamp": 1681367,
+        "timeBefore": 608
+      },
+      {
+        "screenX": 508,
+        "screenY": 677,
+        "timeStamp": 1681820,
+        "timeBefore": 453
+      },
+      {
+        "screenX": 410,
+        "screenY": 739,
+        "timeStamp": 1682367,
+        "timeBefore": 547
+      },
+      {
+        "screenX": 411,
+        "screenY": 735,
+        "timeStamp": 1682664,
+        "timeBefore": 297
+      },
+      {
+        "screenX": 508,
+        "screenY": 782,
+        "timeStamp": 1683243,
+        "timeBefore": 579
+      },
+      {
+        "screenX": 508,
+        "screenY": 782,
+        "timeStamp": 1683445,
+        "timeBefore": 202
+      },
+      {
+        "screenX": 615,
+        "screenY": 712,
+        "timeStamp": 1684071,
+        "timeBefore": 626
+      },
+      {
+        "screenX": 616,
+        "screenY": 712,
+        "timeStamp": 1684445,
+        "timeBefore": 374
+      },
+      {
+        "screenX": 758,
+        "screenY": 667,
+        "timeStamp": 1685196,
+        "timeBefore": 751
+      },
+      {
+        "screenX": 758,
+        "screenY": 667,
+        "timeStamp": 1685399,
+        "timeBefore": 203
+      },
+      {
+        "screenX": 834,
+        "screenY": 622,
+        "timeStamp": 1685962,
+        "timeBefore": 563
+      },
+      {
+        "screenX": 834,
+        "screenY": 622,
+        "timeStamp": 1686259,
+        "timeBefore": 297
+      },
+      {
+        "screenX": 967,
+        "screenY": 552,
+        "timeStamp": 1686915,
+        "timeBefore": 656
+      },
+      {
+        "screenX": 967,
+        "screenY": 552,
+        "timeStamp": 1687150,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 1090,
+        "screenY": 504,
+        "timeStamp": 1687570,
+        "timeBefore": 420
+      },
+      {
+        "screenX": 1090,
+        "screenY": 504,
+        "timeStamp": 1687806,
+        "timeBefore": 236
+      },
+      {
+        "screenX": 1182,
+        "screenY": 453,
+        "timeStamp": 1688306,
+        "timeBefore": 500
+      },
+      {
+        "screenX": 1182,
+        "screenY": 453,
+        "timeStamp": 1688555,
+        "timeBefore": 249
+      },
+      {
+        "screenX": 1181,
+        "screenY": 570,
+        "timeStamp": 1689274,
+        "timeBefore": 719
+      },
+      {
+        "screenX": 1181,
+        "screenY": 570,
+        "timeStamp": 1689525,
+        "timeBefore": 251
+      },
+      {
+        "screenX": 1058,
+        "screenY": 614,
+        "timeStamp": 1690039,
+        "timeBefore": 514
+      },
+      {
+        "screenX": 1058,
+        "screenY": 614,
+        "timeStamp": 1690275,
+        "timeBefore": 236
+      },
+      {
+        "screenX": 963,
+        "screenY": 682,
+        "timeStamp": 1690742,
+        "timeBefore": 467
+      },
+      {
+        "screenX": 963,
+        "screenY": 682,
+        "timeStamp": 1690977,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 867,
+        "screenY": 724,
+        "timeStamp": 1691478,
+        "timeBefore": 501
+      },
+      {
+        "screenX": 867,
+        "screenY": 724,
+        "timeStamp": 1691681,
+        "timeBefore": 203
+      },
+      {
+        "screenX": 794,
+        "screenY": 757,
+        "timeStamp": 1695040,
+        "timeBefore": 3359
+      },
+      {
+        "screenX": 752,
+        "screenY": 753,
+        "timeStamp": 1696117,
+        "timeBefore": 1077
+      },
+      {
+        "screenX": 818,
+        "screenY": 732,
+        "timeStamp": 1696961,
+        "timeBefore": 844
+      },
+      {
+        "screenX": 827,
+        "screenY": 730,
+        "timeStamp": 1697227,
+        "timeBefore": 266
+      },
+      {
+        "screenX": 950,
+        "screenY": 770,
+        "timeStamp": 1697790,
+        "timeBefore": 563
+      },
+      {
+        "screenX": 950,
+        "screenY": 770,
+        "timeStamp": 1697993,
+        "timeBefore": 203
+      },
+      {
+        "screenX": 1073,
+        "screenY": 721,
+        "timeStamp": 1698617,
+        "timeBefore": 624
+      },
+      {
+        "screenX": 1073,
+        "screenY": 721,
+        "timeStamp": 1698853,
+        "timeBefore": 236
+      },
+      {
+        "screenX": 1178,
+        "screenY": 671,
+        "timeStamp": 1699320,
+        "timeBefore": 467
+      },
+      {
+        "screenX": 1178,
+        "screenY": 671,
+        "timeStamp": 1699540,
+        "timeBefore": 220
+      },
+      {
+        "screenX": 1274,
+        "screenY": 722,
+        "timeStamp": 1700117,
+        "timeBefore": 577
+      },
+      {
+        "screenX": 1274,
+        "screenY": 722,
+        "timeStamp": 1700352,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 1174,
+        "screenY": 779,
+        "timeStamp": 1700884,
+        "timeBefore": 532
+      },
+      {
+        "screenX": 1174,
+        "screenY": 779,
+        "timeStamp": 1701117,
+        "timeBefore": 233
+      },
+      {
+        "screenX": 1070,
+        "screenY": 726,
+        "timeStamp": 1701728,
+        "timeBefore": 611
+      },
+      {
+        "screenX": 1070,
+        "screenY": 726,
+        "timeStamp": 1701962,
+        "timeBefore": 234
+      }
+    ]
+  },
+  {
+    "name": "Багама. Тропический лес. Деревья",
+    "points": [
+      {
+        "screenX": 612,
+        "screenY": 304,
+        "timeStamp": 1728430,
+        "timeBefore": 0
+      },
+      {
+        "screenX": 612,
+        "screenY": 304,
+        "timeStamp": 1728820,
+        "timeBefore": 390
+      },
+      {
+        "screenX": 552,
+        "screenY": 328,
+        "timeStamp": 1729320,
+        "timeBefore": 500
+      },
+      {
+        "screenX": 552,
+        "screenY": 328,
+        "timeStamp": 1729539,
+        "timeBefore": 219
+      },
+      {
+        "screenX": 510,
+        "screenY": 364,
+        "timeStamp": 1730164,
+        "timeBefore": 625
+      },
+      {
+        "screenX": 510,
+        "screenY": 364,
+        "timeStamp": 1730399,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 445,
+        "screenY": 336,
+        "timeStamp": 1730977,
+        "timeBefore": 578
+      },
+      {
+        "screenX": 445,
+        "screenY": 336,
+        "timeStamp": 1731212,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 382,
+        "screenY": 316,
+        "timeStamp": 1731712,
+        "timeBefore": 500
+      },
+      {
+        "screenX": 382,
+        "screenY": 316,
+        "timeStamp": 1731961,
+        "timeBefore": 249
+      },
+      {
+        "screenX": 340,
+        "screenY": 342,
+        "timeStamp": 1732540,
+        "timeBefore": 579
+      },
+      {
+        "screenX": 340,
+        "screenY": 342,
+        "timeStamp": 1732805,
+        "timeBefore": 265
+      },
+      {
+        "screenX": 291,
+        "screenY": 365,
+        "timeStamp": 1733399,
+        "timeBefore": 594
+      },
+      {
+        "screenX": 291,
+        "screenY": 365,
+        "timeStamp": 1733633,
+        "timeBefore": 234
+      },
+      {
+        "screenX": 282,
+        "screenY": 414,
+        "timeStamp": 1734289,
+        "timeBefore": 656
+      },
+      {
+        "screenX": 282,
+        "screenY": 414,
+        "timeStamp": 1734524,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 324,
+        "screenY": 437,
+        "timeStamp": 1735056,
+        "timeBefore": 532
+      },
+      {
+        "screenX": 324,
+        "screenY": 437,
+        "timeStamp": 1735258,
+        "timeBefore": 202
+      },
+      {
+        "screenX": 325,
+        "screenY": 443,
+        "timeStamp": 1736727,
+        "timeBefore": 1469
+      },
+      {
+        "screenX": 325,
+        "screenY": 443,
+        "timeStamp": 1736977,
+        "timeBefore": 250
+      },
+      {
+        "screenX": 280,
+        "screenY": 489,
+        "timeStamp": 1737587,
+        "timeBefore": 610
+      },
+      {
+        "screenX": 280,
+        "screenY": 489,
+        "timeStamp": 1737853,
+        "timeBefore": 266
+      },
+      {
+        "screenX": 292,
+        "screenY": 547,
+        "timeStamp": 1738352,
+        "timeBefore": 499
+      },
+      {
+        "screenX": 292,
+        "screenY": 547,
+        "timeStamp": 1738790,
+        "timeBefore": 438
+      },
+      {
+        "screenX": 335,
+        "screenY": 567,
+        "timeStamp": 1739462,
+        "timeBefore": 672
+      },
+      {
+        "screenX": 335,
+        "screenY": 567,
+        "timeStamp": 1739728,
+        "timeBefore": 266
+      },
+      {
+        "screenX": 278,
+        "screenY": 600,
+        "timeStamp": 1741414,
+        "timeBefore": 1686
+      },
+      {
+        "screenX": 278,
+        "screenY": 600,
+        "timeStamp": 1741649,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 296,
+        "screenY": 648,
+        "timeStamp": 1742274,
+        "timeBefore": 625
+      },
+      {
+        "screenX": 296,
+        "screenY": 648,
+        "timeStamp": 1742509,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 336,
+        "screenY": 674,
+        "timeStamp": 1743024,
+        "timeBefore": 515
+      },
+      {
+        "screenX": 336,
+        "screenY": 674,
+        "timeStamp": 1743275,
+        "timeBefore": 251
+      },
+      {
+        "screenX": 290,
+        "screenY": 707,
+        "timeStamp": 1745071,
+        "timeBefore": 1796
+      },
+      {
+        "screenX": 290,
+        "screenY": 707,
+        "timeStamp": 1745462,
+        "timeBefore": 391
+      },
+      {
+        "screenX": 278,
+        "screenY": 750,
+        "timeStamp": 1746103,
+        "timeBefore": 641
+      },
+      {
+        "screenX": 278,
+        "screenY": 751,
+        "timeStamp": 1746337,
+        "timeBefore": 234
+      },
+      {
+        "screenX": 325,
+        "screenY": 783,
+        "timeStamp": 1746883,
+        "timeBefore": 546
+      },
+      {
+        "screenX": 326,
+        "screenY": 783,
+        "timeStamp": 1747102,
+        "timeBefore": 219
+      },
+      {
+        "screenX": 326,
+        "screenY": 729,
+        "timeStamp": 1748134,
+        "timeBefore": 1032
+      },
+      {
+        "screenX": 285,
+        "screenY": 802,
+        "timeStamp": 1748742,
+        "timeBefore": 608
+      },
+      {
+        "screenX": 283,
+        "screenY": 754,
+        "timeStamp": 1749383,
+        "timeBefore": 641
+      },
+      {
+        "screenX": 384,
+        "screenY": 804,
+        "timeStamp": 1749977,
+        "timeBefore": 594
+      },
+      {
+        "screenX": 387,
+        "screenY": 752,
+        "timeStamp": 1750509,
+        "timeBefore": 532
+      },
+      {
+        "screenX": 614,
+        "screenY": 803,
+        "timeStamp": 1751352,
+        "timeBefore": 843
+      },
+      {
+        "screenX": 616,
+        "screenY": 741,
+        "timeStamp": 1752180,
+        "timeBefore": 828
+      },
+      {
+        "screenX": 839,
+        "screenY": 797,
+        "timeStamp": 1752790,
+        "timeBefore": 610
+      },
+      {
+        "screenX": 840,
+        "screenY": 741,
+        "timeStamp": 1753368,
+        "timeBefore": 578
+      },
+      {
+        "screenX": 1055,
+        "screenY": 809,
+        "timeStamp": 1753931,
+        "timeBefore": 563
+      },
+      {
+        "screenX": 1065,
+        "screenY": 740,
+        "timeStamp": 1754430,
+        "timeBefore": 499
+      },
+      {
+        "screenX": 1283,
+        "screenY": 809,
+        "timeStamp": 1755056,
+        "timeBefore": 626
+      },
+      {
+        "screenX": 1278,
+        "screenY": 750,
+        "timeStamp": 1755712,
+        "timeBefore": 656
+      },
+      {
+        "screenX": 1334,
+        "screenY": 782,
+        "timeStamp": 1756228,
+        "timeBefore": 516
+      },
+      {
+        "screenX": 1269,
+        "screenY": 778,
+        "timeStamp": 1756915,
+        "timeBefore": 687
+      },
+      {
+        "screenX": 1336,
+        "screenY": 673,
+        "timeStamp": 1757539,
+        "timeBefore": 624
+      },
+      {
+        "screenX": 1269,
+        "screenY": 672,
+        "timeStamp": 1758103,
+        "timeBefore": 564
+      },
+      {
+        "screenX": 1330,
+        "screenY": 559,
+        "timeStamp": 1758728,
+        "timeBefore": 625
+      },
+      {
+        "screenX": 1260,
+        "screenY": 563,
+        "timeStamp": 1759274,
+        "timeBefore": 546
+      },
+      {
+        "screenX": 1333,
+        "screenY": 449,
+        "timeStamp": 1759852,
+        "timeBefore": 578
+      },
+      {
+        "screenX": 1252,
+        "screenY": 451,
+        "timeStamp": 1760337,
+        "timeBefore": 485
+      },
+      {
+        "screenX": 1331,
+        "screenY": 344,
+        "timeStamp": 1761165,
+        "timeBefore": 828
+      },
+      {
+        "screenX": 1256,
+        "screenY": 354,
+        "timeStamp": 1761930,
+        "timeBefore": 765
+      },
+      {
+        "screenX": 1331,
+        "screenY": 448,
+        "timeStamp": 1762681,
+        "timeBefore": 751
+      },
+      {
+        "screenX": 1261,
+        "screenY": 453,
+        "timeStamp": 1763384,
+        "timeBefore": 703
+      },
+      {
+        "screenX": 1287,
+        "screenY": 307,
+        "timeStamp": 1764181,
+        "timeBefore": 797
+      },
+      {
+        "screenX": 1287,
+        "screenY": 314,
+        "timeStamp": 1764930,
+        "timeBefore": 749
+      },
+      {
+        "screenX": 1069,
+        "screenY": 321,
+        "timeStamp": 1765962,
+        "timeBefore": 1032
+      },
+      {
+        "screenX": 1069,
+        "screenY": 321,
+        "timeStamp": 1766150,
+        "timeBefore": 188
+      },
+      {
+        "screenX": 836,
+        "screenY": 307,
+        "timeStamp": 1766868,
+        "timeBefore": 718
+      },
+      {
+        "screenX": 836,
+        "screenY": 307,
+        "timeStamp": 1767024,
+        "timeBefore": 156
+      }
+    ]
+  },
+  {
+    "name": "Багама. Тропический лес. Животные. Сбор",
+    "points": [
+      {
+        "screenX": 392,
+        "screenY": 371,
+        "timeStamp": 1835586,
+        "timeBefore": 0
+      },
+      {
+        "screenX": 392,
+        "screenY": 371,
+        "timeStamp": 1835900,
+        "timeBefore": 314
+      },
+      {
+        "screenX": 386,
+        "screenY": 484,
+        "timeStamp": 1837118,
+        "timeBefore": 1218
+      },
+      {
+        "screenX": 390,
+        "screenY": 491,
+        "timeStamp": 1839025,
+        "timeBefore": 1907
+      },
+      {
+        "screenX": 383,
+        "screenY": 612,
+        "timeStamp": 1839712,
+        "timeBefore": 687
+      },
+      {
+        "screenX": 383,
+        "screenY": 612,
+        "timeStamp": 1840040,
+        "timeBefore": 328
+      },
+      {
+        "screenX": 1148,
+        "screenY": 332,
+        "timeStamp": 1841008,
+        "timeBefore": 968
+      },
+      {
+        "screenX": 1152,
+        "screenY": 331,
+        "timeStamp": 1841258,
+        "timeBefore": 250
+      },
+      {
+        "screenX": 1272,
+        "screenY": 392,
+        "timeStamp": 1841759,
+        "timeBefore": 501
+      },
+      {
+        "screenX": 1272,
+        "screenY": 392,
+        "timeStamp": 1841977,
+        "timeBefore": 218
+      },
+      {
+        "screenX": 1278,
+        "screenY": 503,
+        "timeStamp": 1842478,
+        "timeBefore": 501
+      },
+      {
+        "screenX": 1278,
+        "screenY": 503,
+        "timeStamp": 1842664,
+        "timeBefore": 186
+      },
+      {
+        "screenX": 1281,
+        "screenY": 615,
+        "timeStamp": 1843228,
+        "timeBefore": 564
+      },
+      {
+        "screenX": 1281,
+        "screenY": 615,
+        "timeStamp": 1843461,
+        "timeBefore": 233
+      },
+      {
+        "screenX": 399,
+        "screenY": 365,
+        "timeStamp": 1844650,
+        "timeBefore": 1189
+      },
+      {
+        "screenX": 399,
+        "screenY": 365,
+        "timeStamp": 1845009,
+        "timeBefore": 359
+      },
+      {
+        "screenX": 390,
+        "screenY": 487,
+        "timeStamp": 1845978,
+        "timeBefore": 969
+      },
+      {
+        "screenX": 390,
+        "screenY": 487,
+        "timeStamp": 1846196,
+        "timeBefore": 218
+      },
+      {
+        "screenX": 381,
+        "screenY": 617,
+        "timeStamp": 1846853,
+        "timeBefore": 657
+      },
+      {
+        "screenX": 386,
+        "screenY": 615,
+        "timeStamp": 1847024,
+        "timeBefore": 171
+      },
+      {
+        "screenX": 446,
+        "screenY": 600,
+        "timeStamp": 1848103,
+        "timeBefore": 1079
+      },
+      {
+        "screenX": 1155,
+        "screenY": 334,
+        "timeStamp": 1849086,
+        "timeBefore": 983
+      },
+      {
+        "screenX": 1156,
+        "screenY": 333,
+        "timeStamp": 1849305,
+        "timeBefore": 219
+      },
+      {
+        "screenX": 1261,
+        "screenY": 401,
+        "timeStamp": 1849867,
+        "timeBefore": 562
+      },
+      {
+        "screenX": 1262,
+        "screenY": 399,
+        "timeStamp": 1850055,
+        "timeBefore": 188
+      },
+      {
+        "screenX": 1290,
+        "screenY": 491,
+        "timeStamp": 1850587,
+        "timeBefore": 532
+      },
+      {
+        "screenX": 1290,
+        "screenY": 491,
+        "timeStamp": 1850759,
+        "timeBefore": 172
+      },
+      {
+        "screenX": 1287,
+        "screenY": 607,
+        "timeStamp": 1851400,
+        "timeBefore": 641
+      },
+      {
+        "screenX": 1287,
+        "screenY": 607,
+        "timeStamp": 1851602,
+        "timeBefore": 202
+      },
+      {
+        "screenX": 389,
+        "screenY": 363,
+        "timeStamp": 1852634,
+        "timeBefore": 1032
+      },
+      {
+        "screenX": 390,
+        "screenY": 305,
+        "timeStamp": 1853665,
+        "timeBefore": 1031
+      },
+      {
+        "screenX": 391,
+        "screenY": 480,
+        "timeStamp": 1854633,
+        "timeBefore": 968
+      },
+      {
+        "screenX": 391,
+        "screenY": 480,
+        "timeStamp": 1854852,
+        "timeBefore": 219
+      },
+      {
+        "screenX": 386,
+        "screenY": 603,
+        "timeStamp": 1855634,
+        "timeBefore": 782
+      },
+      {
+        "screenX": 386,
+        "screenY": 603,
+        "timeStamp": 1855836,
+        "timeBefore": 202
+      },
+      {
+        "screenX": 1158,
+        "screenY": 326,
+        "timeStamp": 1856852,
+        "timeBefore": 1016
+      },
+      {
+        "screenX": 1160,
+        "screenY": 326,
+        "timeStamp": 1857071,
+        "timeBefore": 219
+      },
+      {
+        "screenX": 1264,
+        "screenY": 382,
+        "timeStamp": 1857633,
+        "timeBefore": 562
+      },
+      {
+        "screenX": 1264,
+        "screenY": 382,
+        "timeStamp": 1857820,
+        "timeBefore": 187
+      },
+      {
+        "screenX": 1284,
+        "screenY": 501,
+        "timeStamp": 1858493,
+        "timeBefore": 673
+      },
+      {
+        "screenX": 1284,
+        "screenY": 501,
+        "timeStamp": 1858712,
+        "timeBefore": 219
+      },
+      {
+        "screenX": 1296,
+        "screenY": 623,
+        "timeStamp": 1859337,
+        "timeBefore": 625
+      },
+      {
+        "screenX": 1298,
+        "screenY": 622,
+        "timeStamp": 1859540,
+        "timeBefore": 203
+      },
+      {
+        "screenX": 387,
+        "screenY": 371,
+        "timeStamp": 1860571,
+        "timeBefore": 1031
+      },
+      {
+        "screenX": 396,
+        "screenY": 365,
+        "timeStamp": 1861368,
+        "timeBefore": 797
+      },
+      {
+        "screenX": 386,
+        "screenY": 480,
+        "timeStamp": 1862070,
+        "timeBefore": 702
+      },
+      {
+        "screenX": 400,
+        "screenY": 612,
+        "timeStamp": 1862540,
+        "timeBefore": 470
+      },
+      {
+        "screenX": 1160,
+        "screenY": 323,
+        "timeStamp": 1864212,
+        "timeBefore": 1672
+      },
+      {
+        "screenX": 1251,
+        "screenY": 380,
+        "timeStamp": 1864712,
+        "timeBefore": 500
+      },
+      {
+        "screenX": 1290,
+        "screenY": 493,
+        "timeStamp": 1865150,
+        "timeBefore": 438
+      },
+      {
+        "screenX": 1284,
+        "screenY": 608,
+        "timeStamp": 1865618,
+        "timeBefore": 468
+      },
+      {
+        "screenX": 824,
+        "screenY": 175,
+        "timeStamp": 1866587,
+        "timeBefore": 969
+      }
+    ]
+  },
+  {
+    "name": "Главная ферма. Посев после 1-й клетки",
+    "points": [
+      {
+        "screenX": 611,
+        "screenY": 391,
+        "timeStamp": 185877,
+        "timeBefore": 0
+      },
+      {
+        "screenX": 507,
+        "screenY": 336,
+        "timeStamp": 187971,
+        "timeBefore": 2094
+      },
+      {
+        "screenX": 586,
+        "screenY": 295,
+        "timeStamp": 190454,
+        "timeBefore": 2483
+      },
+      {
+        "screenX": 873,
+        "screenY": 295,
+        "timeStamp": 192955,
+        "timeBefore": 2501
+      },
+      {
+        "screenX": 1057,
+        "screenY": 285,
+        "timeStamp": 194486,
+        "timeBefore": 1531
+      },
+      {
+        "screenX": 941,
+        "screenY": 337,
+        "timeStamp": 195361,
+        "timeBefore": 875
+      },
+      {
+        "screenX": 833,
+        "screenY": 390,
+        "timeStamp": 196065,
+        "timeBefore": 704
+      },
+      {
+        "screenX": 722,
+        "screenY": 454,
+        "timeStamp": 196815,
+        "timeBefore": 750
+      },
+      {
+        "screenX": 600,
+        "screenY": 508,
+        "timeStamp": 197549,
+        "timeBefore": 734
+      },
+      {
+        "screenX": 505,
+        "screenY": 560,
+        "timeStamp": 198268,
+        "timeBefore": 719
+      },
+      {
+        "screenX": 615,
+        "screenY": 617,
+        "timeStamp": 199346,
+        "timeBefore": 1078
+      },
+      {
+        "screenX": 726,
+        "screenY": 562,
+        "timeStamp": 200065,
+        "timeBefore": 719
+      },
+      {
+        "screenX": 832,
+        "screenY": 509,
+        "timeStamp": 200704,
+        "timeBefore": 639
+      },
+      {
+        "screenX": 956,
+        "screenY": 449,
+        "timeStamp": 201283,
+        "timeBefore": 579
+      },
+      {
+        "screenX": 1054,
+        "screenY": 387,
+        "timeStamp": 201970,
+        "timeBefore": 687
+      },
+      {
+        "screenX": 1174,
+        "screenY": 340,
+        "timeStamp": 202720,
+        "timeBefore": 750
+      },
+      {
+        "screenX": 1166,
+        "screenY": 454,
+        "timeStamp": 206174,
+        "timeBefore": 3454
+      },
+      {
+        "screenX": 1052,
+        "screenY": 504,
+        "timeStamp": 206768,
+        "timeBefore": 594
+      },
+      {
+        "screenX": 946,
+        "screenY": 565,
+        "timeStamp": 208079,
+        "timeBefore": 1311
+      },
+      {
+        "screenX": 830,
+        "screenY": 616,
+        "timeStamp": 208705,
+        "timeBefore": 626
+      },
+      {
+        "screenX": 729,
+        "screenY": 674,
+        "timeStamp": 209502,
+        "timeBefore": 797
+      },
+      {
+        "screenX": 610,
+        "screenY": 729,
+        "timeStamp": 210565,
+        "timeBefore": 1063
+      },
+      {
+        "screenX": 492,
+        "screenY": 785,
+        "timeStamp": 211361,
+        "timeBefore": 796
+      },
+      {
+        "screenX": 718,
+        "screenY": 782,
+        "timeStamp": 212299,
+        "timeBefore": 938
+      },
+      {
+        "screenX": 833,
+        "screenY": 732,
+        "timeStamp": 212940,
+        "timeBefore": 641
+      },
+      {
+        "screenX": 947,
+        "screenY": 678,
+        "timeStamp": 213721,
+        "timeBefore": 781
+      },
+      {
+        "screenX": 1049,
+        "screenY": 615,
+        "timeStamp": 214517,
+        "timeBefore": 796
+      },
+      {
+        "screenX": 1162,
+        "screenY": 556,
+        "timeStamp": 215393,
+        "timeBefore": 876
+      },
+      {
+        "screenX": 1164,
+        "screenY": 675,
+        "timeStamp": 216158,
+        "timeBefore": 765
+      },
+      {
+        "screenX": 1054,
+        "screenY": 732,
+        "timeStamp": 217017,
+        "timeBefore": 859
+      },
+      {
+        "screenX": 939,
+        "screenY": 787,
+        "timeStamp": 217876,
+        "timeBefore": 859
+      },
+      {
+        "screenX": 1172,
+        "screenY": 792,
+        "timeStamp": 218893,
+        "timeBefore": 1017
+      }
+    ]
+  },
+  {
+    "name": "Главная ферма. Сбор",
+    "points": [
+      {
+        "screenX": 584,
+        "screenY": 286,
+        "timeStamp": 1102941,
+        "timeBefore": 0
+      },
+      {
+        "screenX": 583,
+        "screenY": 228,
+        "timeStamp": 1105566,
+        "timeBefore": 2625
+      },
+      {
+        "screenX": 499,
+        "screenY": 329,
+        "timeStamp": 1106611,
+        "timeBefore": 1045
+      },
+      {
+        "screenX": 499,
+        "screenY": 329,
+        "timeStamp": 1106815,
+        "timeBefore": 204
+      },
+      {
+        "screenX": 616,
+        "screenY": 386,
+        "timeStamp": 1107800,
+        "timeBefore": 985
+      },
+      {
+        "screenX": 616,
+        "screenY": 386,
+        "timeStamp": 1107986,
+        "timeBefore": 186
+      },
+      {
+        "screenX": 724,
+        "screenY": 327,
+        "timeStamp": 1108611,
+        "timeBefore": 625
+      },
+      {
+        "screenX": 724,
+        "screenY": 327,
+        "timeStamp": 1108847,
+        "timeBefore": 236
+      },
+      {
+        "screenX": 861,
+        "screenY": 285,
+        "timeStamp": 1109971,
+        "timeBefore": 1124
+      },
+      {
+        "screenX": 861,
+        "screenY": 285,
+        "timeStamp": 1110158,
+        "timeBefore": 187
+      },
+      {
+        "screenX": 1055,
+        "screenY": 273,
+        "timeStamp": 1110893,
+        "timeBefore": 735
+      },
+      {
+        "screenX": 1055,
+        "screenY": 273,
+        "timeStamp": 1111283,
+        "timeBefore": 390
+      },
+      {
+        "screenX": 943,
+        "screenY": 335,
+        "timeStamp": 1112174,
+        "timeBefore": 891
+      },
+      {
+        "screenX": 943,
+        "screenY": 335,
+        "timeStamp": 1112378,
+        "timeBefore": 204
+      },
+      {
+        "screenX": 833,
+        "screenY": 384,
+        "timeStamp": 1113190,
+        "timeBefore": 812
+      },
+      {
+        "screenX": 832,
+        "screenY": 385,
+        "timeStamp": 1113393,
+        "timeBefore": 203
+      },
+      {
+        "screenX": 726,
+        "screenY": 440,
+        "timeStamp": 1114502,
+        "timeBefore": 1109
+      },
+      {
+        "screenX": 725,
+        "screenY": 440,
+        "timeStamp": 1114706,
+        "timeBefore": 204
+      },
+      {
+        "screenX": 603,
+        "screenY": 490,
+        "timeStamp": 1115533,
+        "timeBefore": 827
+      },
+      {
+        "screenX": 603,
+        "screenY": 490,
+        "timeStamp": 1115736,
+        "timeBefore": 203
+      },
+      {
+        "screenX": 489,
+        "screenY": 558,
+        "timeStamp": 1116674,
+        "timeBefore": 938
+      },
+      {
+        "screenX": 489,
+        "screenY": 558,
+        "timeStamp": 1117080,
+        "timeBefore": 406
+      },
+      {
+        "screenX": 612,
+        "screenY": 606,
+        "timeStamp": 1117987,
+        "timeBefore": 907
+      },
+      {
+        "screenX": 613,
+        "screenY": 605,
+        "timeStamp": 1118174,
+        "timeBefore": 187
+      },
+      {
+        "screenX": 722,
+        "screenY": 555,
+        "timeStamp": 1118971,
+        "timeBefore": 797
+      },
+      {
+        "screenX": 722,
+        "screenY": 555,
+        "timeStamp": 1119175,
+        "timeBefore": 204
+      },
+      {
+        "screenX": 844,
+        "screenY": 495,
+        "timeStamp": 1120158,
+        "timeBefore": 983
+      },
+      {
+        "screenX": 843,
+        "screenY": 497,
+        "timeStamp": 1120393,
+        "timeBefore": 235
+      },
+      {
+        "screenX": 951,
+        "screenY": 440,
+        "timeStamp": 1121066,
+        "timeBefore": 673
+      },
+      {
+        "screenX": 951,
+        "screenY": 440,
+        "timeStamp": 1121236,
+        "timeBefore": 170
+      },
+      {
+        "screenX": 1059,
+        "screenY": 376,
+        "timeStamp": 1121987,
+        "timeBefore": 751
+      },
+      {
+        "screenX": 1059,
+        "screenY": 376,
+        "timeStamp": 1122175,
+        "timeBefore": 188
+      },
+      {
+        "screenX": 1163,
+        "screenY": 332,
+        "timeStamp": 1123111,
+        "timeBefore": 936
+      },
+      {
+        "screenX": 1163,
+        "screenY": 332,
+        "timeStamp": 1123299,
+        "timeBefore": 188
+      },
+      {
+        "screenX": 1167,
+        "screenY": 441,
+        "timeStamp": 1124315,
+        "timeBefore": 1016
+      },
+      {
+        "screenX": 1167,
+        "screenY": 441,
+        "timeStamp": 1124487,
+        "timeBefore": 172
+      },
+      {
+        "screenX": 1059,
+        "screenY": 498,
+        "timeStamp": 1125394,
+        "timeBefore": 907
+      },
+      {
+        "screenX": 1059,
+        "screenY": 498,
+        "timeStamp": 1125581,
+        "timeBefore": 187
+      },
+      {
+        "screenX": 939,
+        "screenY": 549,
+        "timeStamp": 1126455,
+        "timeBefore": 874
+      },
+      {
+        "screenX": 939,
+        "screenY": 549,
+        "timeStamp": 1126643,
+        "timeBefore": 188
+      },
+      {
+        "screenX": 830,
+        "screenY": 614,
+        "timeStamp": 1128049,
+        "timeBefore": 1406
+      },
+      {
+        "screenX": 830,
+        "screenY": 614,
+        "timeStamp": 1128268,
+        "timeBefore": 219
+      },
+      {
+        "screenX": 723,
+        "screenY": 663,
+        "timeStamp": 1129222,
+        "timeBefore": 954
+      },
+      {
+        "screenX": 723,
+        "screenY": 663,
+        "timeStamp": 1129424,
+        "timeBefore": 202
+      },
+      {
+        "screenX": 603,
+        "screenY": 716,
+        "timeStamp": 1130174,
+        "timeBefore": 750
+      },
+      {
+        "screenX": 603,
+        "screenY": 716,
+        "timeStamp": 1130361,
+        "timeBefore": 187
+      },
+      {
+        "screenX": 500,
+        "screenY": 778,
+        "timeStamp": 1131190,
+        "timeBefore": 829
+      },
+      {
+        "screenX": 500,
+        "screenY": 778,
+        "timeStamp": 1131408,
+        "timeBefore": 218
+      },
+      {
+        "screenX": 722,
+        "screenY": 774,
+        "timeStamp": 1132299,
+        "timeBefore": 891
+      },
+      {
+        "screenX": 722,
+        "screenY": 774,
+        "timeStamp": 1132487,
+        "timeBefore": 188
+      },
+      {
+        "screenX": 826,
+        "screenY": 715,
+        "timeStamp": 1133331,
+        "timeBefore": 844
+      },
+      {
+        "screenX": 826,
+        "screenY": 715,
+        "timeStamp": 1133550,
+        "timeBefore": 219
+      },
+      {
+        "screenX": 941,
+        "screenY": 664,
+        "timeStamp": 1134705,
+        "timeBefore": 1155
+      },
+      {
+        "screenX": 941,
+        "screenY": 664,
+        "timeStamp": 1134894,
+        "timeBefore": 189
+      },
+      {
+        "screenX": 1060,
+        "screenY": 606,
+        "timeStamp": 1135800,
+        "timeBefore": 906
+      },
+      {
+        "screenX": 1060,
+        "screenY": 606,
+        "timeStamp": 1135971,
+        "timeBefore": 171
+      },
+      {
+        "screenX": 1165,
+        "screenY": 549,
+        "timeStamp": 1136721,
+        "timeBefore": 750
+      },
+      {
+        "screenX": 1165,
+        "screenY": 549,
+        "timeStamp": 1136924,
+        "timeBefore": 203
+      },
+      {
+        "screenX": 942,
+        "screenY": 776,
+        "timeStamp": 1138080,
+        "timeBefore": 1156
+      },
+      {
+        "screenX": 942,
+        "screenY": 776,
+        "timeStamp": 1138284,
+        "timeBefore": 204
+      },
+      {
+        "screenX": 1060,
+        "screenY": 719,
+        "timeStamp": 1139096,
+        "timeBefore": 812
+      },
+      {
+        "screenX": 1060,
+        "screenY": 719,
+        "timeStamp": 1139299,
+        "timeBefore": 203
+      },
+      {
+        "screenX": 1164,
+        "screenY": 664,
+        "timeStamp": 1140174,
+        "timeBefore": 875
+      },
+      {
+        "screenX": 1164,
+        "screenY": 664,
+        "timeStamp": 1140377,
+        "timeBefore": 203
+      },
+      {
+        "screenX": 1165,
+        "screenY": 775,
+        "timeStamp": 1141362,
+        "timeBefore": 985
+      },
+      {
+        "screenX": 1165,
+        "screenY": 775,
+        "timeStamp": 1141861,
+        "timeBefore": 499
+      }
+    ]
+  }
+]
